@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_SAMV/ATSAMV71Q20B-A:ATSAMV71Q20B-A",
+  "name": "ATSAMV71Q20B-A",
+  "library": "MCU_Microchip_SAMV",
+  "file": "MCU_Microchip_SAMV.kicad_symdir/ATSAMV71Q20B-A.kicad_sym",
+  "description": "SAM V71 Microchip SMART ARM Cortex-M7-based MCU, 1024K Flash, 384K SRAM, LQFP-144",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/SAM-E70-S70-V70-V71-Family-Data-Sheet-DS60001527D.pdf",
+  "keywords": "32-bit ARM Cortex-M7 MCU Microcontroller",
+  "footprint": "Package_QFP:LQFP-144_20x20mm_P0.5mm",
+  "extends": "ATSAMV71Q21B-A",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-samv@master/parts/ATSAMV71Q20B-A/",
+  "part_path": "parts/ATSAMV71Q20B-A",
+  "symbol_file": "parts/ATSAMV71Q20B-A/ATSAMV71Q20B-A.kicad_sym",
+  "source_library": "MCU_Microchip_SAMV.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:07:06.078Z"
+}
